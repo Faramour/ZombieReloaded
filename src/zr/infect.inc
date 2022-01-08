@@ -524,6 +524,16 @@ public Action:InfectMotherZombie(Handle:timer)
             {
                 mothercount = 1;
             }
+
+            // Set the minimum if there are enough humans
+            if (mothercount < min) {
+                mothercount = (humancount > min) ? min : humancount - 1;
+            }
+
+            // Reduce the amount in case the maximum is exceeded
+            if (mothercount > max) {
+                mothercount = max;
+            }
         }
         case InfectMode_Absolute:
         {
