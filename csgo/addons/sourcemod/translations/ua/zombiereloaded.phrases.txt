@@ -358,7 +358,7 @@
 	// Overlays (core)
 	// ===========================
 
-		"Overlays not supported"
+	"Overlays not supported"
 	{
 		"ua" "Оверлей відключений - обнаржуен DX{1} (необхідний DX{2})"
 	}
@@ -619,7 +619,7 @@
 
 	"Weapons command restrict syntax"
 	{
-		"ua" "ua" "Заборона зброї або типу зброї. Використання: zr_restrict <зброя|тип зброї> [зброя2|тип зброї2] ..."
+		"ua" "Заборона зброї або типу зброї. Використання: zr_restrict <зброя|тип зброї> [зброя2|тип зброї2] ..."
 	}
 
 	"Weapons command unrestrict syntax"
@@ -855,7 +855,7 @@
 	// Commands
 
 	"AntiStick command set width syntax"
-		{
+	{
 		"ua" "Встановлює межі моделі. (Дивіться zr_antistick_list_models) Використання: zr_antistick_set_width <модель/гравець> <ширина>"
 	}
 
@@ -893,7 +893,7 @@
 
 	"Spawn protection begin"
 	{
-		"ua"		"ua" "Зомбі на волі, у вас є {1} секунд, щоб знайти безпечне місце, поки ви не втратили імунітет."
+		"ua" "Зомбі на волі, у вас є {1} секунд, щоб знайти безпечне місце, поки ви не втратили імунітет."
 	}
 
     "Spawn protection end"
@@ -964,12 +964,12 @@
 
 	"ZSpawn command force syntax"
 	{
-		"ua"		"ua" "Воскресіння гравця. Використання: zr_zspawn_force <гравець> ['0' = Зробити людиною | '1' = Зробити зомбі]"
+		"ua"		"Воскресіння гравця. Використання: zr_zspawn_force <гравець> ['0' = Зробити людиною | '1' = Зробити зомбі]"
 	}
 
 	"ZSpawn command force successful"
 	{
-		"ua"		"ua" "Гравця {1} було успішно відроджено."
+		"ua"		"Гравця {1} було успішно відроджено."
 	}
 
 	"ZSpawn command force successful public"
