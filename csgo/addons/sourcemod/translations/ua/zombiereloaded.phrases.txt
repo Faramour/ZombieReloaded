@@ -398,7 +398,7 @@
 
     // Menu
 
-    " Infect menu clients title"
+    "Infect menu clients title"
 	{
 		"ua" "Керування зомбі\пПеремикання інфекції:\n[] = Інфікований"
 	}
@@ -422,7 +422,7 @@
 
 	"Infect command infect successful public"
 	{
-		"ua" "@lgreen{1}@default зробив @green{2}@default зомбі."
+		"ua" "@lgreen{1}@default інфікував @green{2}@default."
 	}
 
 	"Infect command infect mother successful"
@@ -432,7 +432,7 @@
 
 	"Infect command infect mother successful public"
 	{
-		"ua" "@lgreen{1}@default зробив @green{2}@default першим зомбі."
+		"ua" "@lgreen{1}@default інфікував @green{2}@default як матір зомбі."
 	}
 
 	"Infect command infect unsuccessful"
@@ -605,6 +605,16 @@
 		"ua" "У вас недостатньо грошей для покупки даної зброї."
 	}
 
+	"Weapons zmarket auto-rebuy toggle on"
+	{
+		"ua"		"Авто-покупка була включена, ваша амуніція буде автоматично куплена кожного разу, коли ви відроджуєтеся."
+	}
+
+	"Weapons zmarket auto-rebuy toggle off"
+	{
+		"ua"		"Авто-покупка була вимкнена."
+	}
+
 	"Weapons zmarket updated loadout"
 	{
 		"ua" "Наразі ви не можете отримати цю зброю, але ваше замовлення було збережено."
@@ -674,7 +684,7 @@
 		"ua" "Тільки в зоні закупівлі - {1}"
 	}
 
-	// Меню (ZMarket)
+	// Menu (ZMarket)
 
 	"Weapons menu zmarket main title"
 	{
@@ -686,9 +696,9 @@
 		"ua" "Зберегти поточну зброю"
 	}
 
-	"Weapons menu zmarket main edit loadout"
+	"Weapons menu zmarket main view loadout"
 	{
-		"ua" "Поточна амуніція"
+		"ua" "Переглянути поточну амуніцію"
 	}
 
 	"Weapons menu zmarket main rebuy"
@@ -696,6 +706,12 @@
 		"ua" "Знову купити мою амуніцію"
 	}
 
+    "Weapons menu zmarket main auto-rebuy"
+	{
+		
+		"ua"		"Авто-покупка: {1}"
+	}
+	
 	"Weapons menu zmarket main weapons list"
 	{
 		"ua" "Перегляд списку зброї"
@@ -720,12 +736,52 @@
 	{
 		"ua" "{1} (за замовчуванням)"
 	}
+	
+	"Weapons menu zmarket loadout melee"
+	{		
+	
+		"ua"		"Ножі: {1}"
+	}
 
 	"Weapons menu zmarket loadout weapons title"
 	{
 		"ua" "ZMarket\nВиберіть зброю:"
+	} 
+	
+    "Weapons menu zmarket loadout projectile"
+	{
+	
+		"ua"		"Снаряди: {1}"
 	}
 
+	"Weapons menu zmarket loadout explosive"
+	{
+		
+		"ua"		"Вибухівка: {1}"
+	}
+
+	"Weapons menu zmarket loadout firenade"
+	{
+		
+		"ua"		"Вогнева граната: {1}"
+	}
+
+	"Weapons menu zmarket loadout decoy"
+	{
+		
+		"ua"		"Граната-приманка: {1}"
+	}
+
+	"Weapons menu zmarket loadout nvgs"
+	{
+		
+		"ua"		"ПНБ: {1}"
+	}
+
+	"Weapons menu zmarket loadout empty"
+	{
+		"ua"		"(Пусто)"
+	}
 	"Weapons menu zmarket types title"
 	{
 		"ua" "ZMarket\nВиберіть тип зброї:"
@@ -786,12 +842,12 @@
 
 	"Hitgroups command successful on"
 	{
-		"ua" "Урон для зони уражень \"{1}\" було ввімкнено."
+		"ua" "Пошкодження для зони уражень \"{1}\" було ввімкнено."
 	}
 
 	"Hitgroups command successful off"
 	{
-		"ua" "Шкоду для зони уражень \"{1}\" було вимкнено."
+		"ua" "Пошкодження для зони уражень \"{1}\" було вимкнено."
 	}
 
 	"Hitgroups command invalid hitgroup"
@@ -801,12 +857,12 @@
 
 	"Hitgroups command enable all successful"
 	{
-		"ua" "Усі зони уражень зомбі були відкриті для отримання шкоди."
+		"ua" "Усі зони уражень зомбі були відкриті для отримання пошкоджень."
 	}
 
 	"Hitgroups command headshots only successful"
 	{
-		"ua" "Тепер зомбі можуть отримувати шкоду тільки при влучаннях у голову."
+		"ua" "Тепер зомбі можуть отримувати пошкодження тільки при влучаннях у голову."
 	}
 
 	// ===========================
@@ -861,7 +917,7 @@
 
 	"AntiStick command list models list"
 	{
-		"ua" "Имя игрока: Модель: Ширина:\n-------------------------------------------------------------------------------------------------------------"
+		"ua" "Ім'я гравця:              Модель:                       Ширина:\n-------------------------------------------------------------------------------------------------------------"
 	}
 
 	"AntiStick command list models name"
@@ -974,7 +1030,7 @@
 
 	"ZSpawn command force successful public"
 	{
-		"ua"		"@lgreen{1}@default возродил @green{2}@default как @lgreen{3}@default."
+		"ua"		"@lgreen{1}@default відродив @green{2}@default як @lgreen{3}@default."
 	}
 
 	"ZSpawn command force unsuccessful"
@@ -1034,7 +1090,7 @@
 
 	// Команди
 
-	"Синтаксис команди ZTele command force"
+	"ZTele command force syntax"
 	{
 		"ua" "Телепортувати гравця. Використання: zr_ztele_force <гравець>"
 
