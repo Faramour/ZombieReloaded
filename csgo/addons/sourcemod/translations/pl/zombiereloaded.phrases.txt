@@ -1,0 +1,979 @@
+"Phrases"
+{
+	"General round objective"
+	{
+		"pl"		"Gra rozgrywa się pomiędzy @greenLudźmi vs. Zombie@default, celem zombie jest zainfekowanie wszystkich ludzi za pomocą noża."
+	}
+
+	"General zmenu reminder"
+	{
+		"pl"		"Po pomoc o komendach Zombie:Reloaded, napisz \"{1}{2}\" w czacie."
+	}
+
+	"Literal text"
+	{
+		"pl"		"{1}"
+	}
+
+	"Feature is disabled"
+	{
+		"pl"		"Ta funkcja jest obecnie wyłączona przez hosta servera."
+	}
+
+	"Not enough money"
+	{
+		"pl"		"Nie masz wystarczająco dużo pieniędzy, aby kupić ten przedmiot."
+	}
+
+	"Must be player"
+	{
+		"pl"		"Ta funkcja jest zarezerwowana tylko dla graczy."
+	}
+
+	"Must be admin"
+	{
+		"pl"		"Ta funkcja jest zarezerwowana tylko dla administratorów."
+	}
+
+	"No access to command"
+	{
+		"pl"		"Nie masz dostępu do tej komendy."
+	}
+
+	"Must be alive"
+	{
+		"pl"		"Ta funkcja wymaga, abyś żył."
+	}
+
+	"Must be dead"
+	{
+		"pl"		"Ta funkcja wymaga, abyś nie żył."
+	}
+
+	"Must be on team"
+	{
+		"pl"		"Ta funckja wymaga, abyś był w jednej z drużyn."
+	}
+
+	"Must be zombie"
+	{
+		"pl"		"Ta funckja wymaga, abyś był w drużynie zombie."
+	}
+
+	"Must be human"
+	{
+		"pl"		"Ta funkcja wymaga, abyś był w drużynie ludzi."
+	}
+
+	"Must be in buyzone"
+	{
+		"pl"		"Ta funkcja wymaga, abyś był w strefie kupowania."
+	}
+
+	"Increase by"
+	{
+		"pl"		"Zwiększ o {1}"
+	}
+
+	"Decrease by"
+	{
+		"pl"		"Zmniejsz o {1}"
+	}
+
+	"Current Value"
+	{
+		"pl"		"Obecna wartość:"
+	}
+
+	"Zombie"
+	{
+		"pl"		"Zombie"
+	}
+
+	"Human"
+	{
+		"pl"		"Człowiek"
+	}
+
+	"Menu empty"
+	{
+		"pl"		"(Pusto)"
+	}
+
+	"Config command reload syntax"
+	{
+		"pl"		"Składnia: zr_reloadconfig <plik alias1> [plik alias2] ... - Przeładowywuje plik konfiguracyjny."
+	}
+
+	"Config command reload related commands"
+	{
+		"pl"		"Powiązana komenda: zr_config_reloadall"
+	}
+
+	"Config command reload syntax aliases"
+	{
+		"pl"		"Aliasy plików:\n* \"{1}\"\n* \"{2}\"\n* \"{3}\"\n* \"{4}\"\n* \"{5}\""
+	}
+
+	"Config command reload invalid"
+	{
+		"pl"		"Nieprawidłowy alias pliku: \"{1}\""
+	}
+
+	"Config command reload not loaded"
+	{
+		"pl"		"Plik konfiguracyjny \"{1}\" zawiódł przy ładowaniu. (Wyłączony lub nieprawidłowa zawartość pliku.)"
+	}
+
+	"Config command reload all stats begin"
+	{
+		"pl"		"Przeładowywuję wszystkie pliki konfiguracyjne Zombie:Reloaded...\n------------------------------------------------"
+	}
+
+	"Config command reload all stats successful"
+	{
+		"pl"		"\"{1}\" - Pomyślny."
+	}
+
+	"Config command reload all stats failed"
+	{
+		"pl"		"\"{1}\" - Nieudany. (Wyłączony lub nieprawidłowa zawartość plików.)"
+	}
+
+	"Log Generic Flag"
+	{
+		"pl"		"Ogólna Flaga:"
+	}
+
+	"Log Value"
+	{
+		"pl"		"Wartość:"
+	}
+
+	"Log Module"
+	{
+		"pl"		"Modół:"
+	}
+
+	"Log Status"
+	{
+		"pl"		"Stan Filtra:"
+	}
+
+	"Log Module Filtering"
+	{
+		"pl"		"Filtrowanie Modułu:"
+	}
+
+	"Log Module Short Name"
+	{
+		"pl"		"Krótka nazwa:"
+	}
+
+	"Classes admin mode enabled"
+	{
+		"pl"		"Tryb Administratora włączony!"
+	}
+
+	"Classes random assignment"
+	{
+		"pl"		"Zostałeś losowo przypisany do @green\"{1}\" @defaultklasy."
+	}
+
+	"Classes overlay toggle"
+	{
+		"pl"		"Komendy przełączenia nakładki klas: {1}"
+	}
+
+	"Classes menu title"
+	{
+		"pl"		"Wybór klasy:"
+	}
+
+	"Classes menu active"
+	{
+		"pl"		"Aktywne: {1}"
+	}
+
+	"Classes menu next"
+	{
+		"pl"		"Następne odrodzenie: {1}"
+	}
+
+	"Classes menu select zombie"
+	{
+		"pl"		"Wybierz Klasę Zombie"
+	}
+
+	"Classes menu select human"
+	{
+		"pl"		"Wybierz Klasę Ludzi"
+	}
+
+	"Classes menu select admin"
+	{
+		"pl"		"Wybierz Klasę Trybu Administratora"
+	}
+
+	"Classes menu admin mode toggle"
+	{
+		"pl"		"Przełącz Tryb Administratora"
+	}
+
+	"Classes Menu Team Select Title"
+	{
+		"pl"		"Wybierz drużynę:"
+	}
+
+	"Classes Menu Zombies"
+	{
+		"pl"		"Zombie"
+	}
+
+	"Classes Menu Humans"
+	{
+		"pl"		"Ludzie"
+	}
+
+	"Classes Menu Multiplier Select Title"
+	{
+		"pl"		"Wybierz mnożnik:"
+	}
+
+	"Classes Menu Adjust Value"
+	{
+		"pl"		"Dostosuj wartość:"
+	}
+
+	"Classes Attrib Napalm Time"
+	{
+		"pl"		"Napalm Time"
+	}
+
+	"Classes Attrib Health"
+	{
+		"pl"		"Zdrowie"
+	}
+
+	"Classes Attrib Regen Interval"
+	{
+		"pl"		"Odstęp między regeneracją życia"
+	}
+
+	"Classes Attrib Regen Amount"
+	{
+		"pl"		"Siła regeneracji życia"
+	}
+
+	"Classes Attrib Infect Gain"
+	{
+		"pl"		"Przyrost zdrowia po infekcji"
+	}
+
+	"Classes Attrib Speed"
+	{
+		"pl"		"Szybkość biegu"
+	}
+
+	"Classes Attrib Knockback"
+	{
+		"pl"		"Odrzut"
+	}
+
+	"Classes Attrib Jump Height"
+	{
+		"pl"		"Wysokość skoku"
+	}
+
+	"Classes Attrib Jump Distance"
+	{
+		"pl"		"Zasięg skoku"
+	}
+
+	"Classes Selection Not Allowed"
+	{
+		"pl"		"Zmiana klas nie jest dozwolona."
+	}
+
+	"Immunity Shield Not Available"
+	{
+		"pl"		"Nie masz protekcji."
+	}
+
+	"Immunity Shield Cooldown"
+	{
+		"pl"		"{1} sekund(y) zamin protekcja będzie dostępna."
+	}
+
+	"Immunity Shield Time Left"
+	{
+		"pl"		"Pozostały czas protekcji: {1}"
+	}
+
+	"Overlays not supported"
+	{
+		"pl"		"Zablokowano nakładkę - Wykryto DX{1} (Wymagamy DX{2})"
+	}
+
+	"Infect infected"
+	{
+		"pl"		"Zostałeś zainfekowany! Przekaż tą infekcję jak największej liczbie innych graczy."
+	}
+
+	"Infect human"
+	{
+		"pl"		"Miłosierni bogowie (znani jako administratorzy) wskrzesili twoją duszę, znajdź jakąś osłonę!"
+	}
+
+	"Infect disconnect"
+	{
+		"pl"		"Ostatni zombie opuścił grę i przekazał tobię infekcję."
+	}
+
+	"Mother zombie infect cycle reset"
+	{
+		"pl"		"Cykl infekcji Matek Zombie został zresetowany."
+	}
+
+	"Infect countdown"
+	{
+		"pl"		"Pierwsza infekcja za {1} sekund(y)."
+	}
+
+	"Infect menu clients title"
+	{
+		"pl"		"Zarządzanie Zombie\nPrzełącz infekcję:\n[] = Zainfekowany"
+	}
+
+	"Infect command infect syntax"
+	{
+		"pl"		"Zainfekuj kogoś. Użycie: zr_infect <filter> [odrodzenie - 1/0]"
+	}
+
+	"Infect command human syntax"
+	{
+		"pl"		"Zamień kogoś w człowieka. Użycie: zr_human <filter> [odrodzenie - 1/0] [protekcja - 1/0]"
+	}
+
+	"Infect command infect successful"
+	{
+		"pl"		"Gracz @green{1} @defaultzostał pomyślnie zainfekowany."
+	}
+
+	"Infect command infect successful public"
+	{
+		"pl"		"@lgreen{1}@default zainfekował @green{2}@default."
+	}
+
+	"Infect command infect mother successful"
+	{
+		"pl"		"Gracz @green{1} @defaultzostał pomyślnie zainfekowany jako Matka Zombie."
+	}
+
+	"Infect command infect mother successful public"
+	{
+		"pl"		"@lgreen{1}@default zainfekował @green{2}@default jako Matka Zombie."
+	}
+
+	"Infect command infect unsuccessful"
+	{
+		"pl"		"Gracz @green{1} @defaultjuż jest zombie."
+	}
+
+	"Infect command human successful"
+	{
+		"pl"		"Gracz @green{1} @defaultzostał pomyślnie przywrócony jako człowiek."
+	}
+
+	"Infect command human successful public"
+	{
+		"pl"		"@lgreen{1}@default przywrócił @green{2}@default jako człowieka."
+	}
+
+	"Infect command human unsuccessful"
+	{
+		"pl"		"Gracz @green{1} @defaultjuż jest człowiekiem."
+	}
+
+	"Damage suicide intercept"
+	{
+		"pl"		"Powstrzymano próbę samobójstwa."
+	}
+
+	"Menu main title"
+	{
+		"pl"		"Komendy ZR:\nPoprzedź komendę przez \"{1}\" lub \"{2}\" (cicho) podczas pisania w czacie."
+	}
+
+	"Menu main zadmin"
+	{
+		"pl"		"ZAdmin - Otwórcz menu administratora"
+	}
+
+	"Menu main zclass"
+	{
+		"pl"		"ZClass - Konfiguruj ustawienia klas"
+	}
+
+	"Menu main zcookies"
+	{
+		"pl"		"ZCookies - Przełącz osobiste ustawienia ZR"
+	}
+
+	"Menu main zspawn"
+	{
+		"pl"		"ZSpawn - Dołączyłeś późno? Użyj tego aby się odrodzić"
+	}
+
+	"Menu main ztele"
+	{
+		"pl"		"ZTele - Utknąłeś? Teleportuj się do strefy odrodzenia"
+	}
+
+	"Menu main zhp"
+	{
+		"pl"		"ZHP - Wyświetla prawdziwe zdrowie jako Zombie"
+	}
+
+	"Menu main zmarket"
+	{
+		"pl"		"ZMarket - Dostosuj twoje wyposażenie"
+	}
+
+	"Zombie cant use weapon"
+	{
+		"pl"		"Zombie nie mogą używać broni!"
+	}
+
+	"Restrict weapon"
+	{
+		"pl"		"Nałożono ograniczenie na broń @green\"{1}\" @default."
+	}
+
+	"Unrestrict weapon"
+	{
+		"pl"		"Zdjęto ograniczenie z broni @green\"{1}\" @default."
+	}
+
+	"Restrict weapon stopped"
+	{
+		"pl"		"Broń @green\"{1}\" @defaultjest już ograniczona."
+	}
+
+	"Unrestrict weapon stopped"
+	{
+		"pl"		"Broń @green\"{1}\" @defaultnie ma nałożonego ograniczenia."
+	}
+
+	"Restrict weapon type"
+	{
+		"pl"		"Nałożono ograniczenie na bronie typu @green\"{1}\" @default."
+	}
+
+	"Unrestrict weapon type"
+	{
+		"pl"		"Zdjęto ograniczenie z broni typu @green\"{1}\" @default."
+	}
+
+	"Restrict weapon type stopped"
+	{
+		"pl"		"Bronie typu @green\"{1}\" @defaultsą już ograniczone."
+	}
+
+	"Unrestrict weapon type stopped"
+	{
+		"pl"		"Bronie typu @green\"{1}\" @defaultnie mają nałożonego ograniczenia."
+	}
+
+	"Restrict weapon untoggleable"
+	{
+		"pl"		"Nie można przełączyć ograniczenia broni @green\"{1}\" @default."
+	}
+
+	"Weapon invalid"
+	{
+		"pl"		"@green\"{1}\" @defaultjest nieprawidłową nazwą (typem) broni."
+	}
+
+	"Weapon is restricted"
+	{
+		"pl"		"Broń @green{1} @defaultjest ograniczona."
+	}
+
+	"Weapons zmarket buyzone"
+	{
+		"pl"		"Musisz być w strefie kupowania aby użyć ZMarket."
+	}
+
+	"Weapons zmarket purchase"
+	{
+		"pl"		"Kupiłeś broń @green{1}. @defaultWybierz tą broń ponownie aby dokupić amunicję jeżeli ci jej brakuje."
+	}
+
+	"Weapons zmarket purchase max"
+	{
+		"pl"		"Broń @green{1} @defaultma limit zakupu wynoszący @green{2}@default. Poczekaj do następnego odrodzenia aby spróbować ponownie."
+	}
+
+	"Weapons zmarket grenade max"
+	{
+		"pl"		"Możesz nosić tylko {1} granat(y) tego typu."
+	}
+
+	"Weapons zmarket auto-rebuy toggle on"
+	{
+		"pl"		"Auto-dokupienie zostało włączone, twój ekwipunek zostanie automatyczne zakupiony za każdym razem, gdy się odrodzisz."
+	}
+
+	"Weapons zmarket auto-rebuy toggle off"
+	{
+		"pl"		"Auto-dokupienie zostało wyłączone."
+	}
+
+	"Weapons zmarket updated loadout"
+	{
+		"pl"		"W tej chwili nie możesz kupić broni, ale twój ekwipunek został zaktualizowany o tę broń."
+	}
+
+	"Weapons zmarket get current loadout"
+	{
+		"pl"		"Zaktualizowano obecny ekwipunek, użyj opcji dokupienia aby ponownie kupić te bronie."
+	}
+
+	"Weapons command restrict syntax"
+	{
+		"pl"		"Nakłada ograniczenie na broń lub typ broni. Użycie: zr_restrict <broń|typ broni> [broń2|typ broni2] ..."
+	}
+
+	"Weapons command unrestrict syntax"
+	{
+		"pl"		"Zdejmuje ograniczenie z broni lub typu broni. Użycie: zr_unrestrict <broń|typ broni> [broń2|typ broni2] ..."
+	}
+
+	"Weapons menu restrict main title"
+	{
+		"pl"		"Zarządzanie bronią"
+	}
+
+	"Weapons menu restrict main restrict"
+	{
+		"pl"		"Ograniczenia na bronie"
+	}
+
+	"Weapons menu restrict main market"
+	{
+		"pl"		"ZMarket"
+	}
+
+	"Weapons menu restrict types title"
+	{
+		"pl"		"Ograniczenia na bronie\nWybierz typ broni:"
+	}
+
+	"Weapons menu restrict types weapon type title"
+	{
+		"pl"		"Ograniczenia na bronie\nTyp broni: {1}\n[] = Ograniczone"
+	}
+
+	"Weapons menu restrict types restrict all"
+	{
+		"pl"		"Nałóż ograniczenie na typ broni {1}"
+	}
+
+	"Weapons menu restrict types unrestrict all"
+	{
+		"pl"		"Zdejmij ograniczenie z typu broni {1}"
+	}
+
+	"Weapons menu restrict zmarket title"
+	{
+		"pl"		"ZMarket\nWybierz Opcję:"
+	}
+
+	"Weapons menu restrict zmarket buyzone"
+	{
+		"pl"		"Tylko w strefie kupowania - {1}"
+	}
+
+	"Weapons menu zmarket main title"
+	{
+		"pl"		"ZMarket\nWybierz Opcję:"
+	}
+
+	"Weapons menu zmarket main get loadout"
+	{
+		"pl"		"Zapisz obecną konfigurację"
+	}
+
+	"Weapons menu zmarket main view loadout"
+	{
+		"pl"		"Wyświetl zapisaną konfigurację"
+	}
+
+	"Weapons menu zmarket main rebuy"
+	{
+		"pl"		"Kup zapisaną konfigurację"
+	}
+
+	"Weapons menu zmarket main auto-rebuy"
+	{
+		"pl"		"Auto-Dokupienie: {1}"
+	}
+
+	"Weapons menu zmarket main weapons list"
+	{
+		"pl"		"Kup bronie"
+	}
+
+	"Weapons menu zmarket loadout title"
+	{
+		"pl"		"ZMarket\nTwoja obecna konfiguracja:\nWybierz broń, aby wyczyścić ten slot.\nNota: Dokupienie odnosi się do tych broni."
+	}
+
+	"Weapons menu zmarket loadout primary"
+	{
+		"pl"		"Podstawowa: {1}"
+	}
+
+	"Weapons menu zmarket loadout secondary"
+	{
+		"pl"		"Pomocniczna: {1}"
+	}
+
+	"Weapons menu zmarket loadout melee"
+	{
+		"pl"		"Bliski kontakt: {1}"
+	}
+
+	"Weapons menu zmarket loadout projectile"
+	{
+		"pl"		"Pocisk: {1}"
+	}
+
+	"Weapons menu zmarket loadout explosive"
+	{
+		"pl"		"Granat wybuchowy: {1}"
+	}
+
+	"Weapons menu zmarket loadout firenade"
+	{
+		"pl"		"Granat palny: {1}"
+	}
+
+	"Weapons menu zmarket loadout decoy"
+	{
+		"pl"		"Wabik: {1}"
+	}
+
+	"Weapons menu zmarket loadout nvgs"
+	{
+		"pl"		"Noktowizja: {1}"
+	}
+
+	"Weapons menu zmarket loadout empty"
+	{
+		"pl"		"(Żadne)"
+	}
+
+	"Weapons menu zmarket types title"
+	{
+		"pl"		"ZMarket\nWybierz typ broni:"
+	}
+
+	"Weapons menu zmarket types weapon type title"
+	{
+		"pl"		"ZMarket\nTyp broni: {1}\n[] = Ograniczone"
+	}
+
+	"Weapons menu zmarket types weapon info"
+	{
+		"pl"		"{1} (${2})\nPozostało zakupów: {3}"
+	}
+
+	"Weapons menu zmarket types weapon ammo"
+	{
+		"pl"		"Amunicja"
+	}
+
+	"Hitgroups menu hitgroups title"
+	{
+		"pl"		"Zarządzanie hit-grupami\nKomendy: zr_hitgroup(_enable_all/_headshots_only)\nWybierz hit-grupę do przełączenia:"
+	}
+
+	"Hitgroups menu hitgroups enable all"
+	{
+		"pl"		"Włącz Wszystkie Hit-grupy"
+	}
+
+	"Hitgroups menu hitgroups headshots only"
+	{
+		"pl"		"Tylko trafienia w głowę"
+	}
+
+	"Hitgroups command syntax"
+	{
+		"pl"		"Przełącza bądź ustawia czy hit-grupy zombie mogą być zranione. Użycie: zr_hitgroup <alias hit-grupy> [1/0]"
+	}
+
+	"Hitgroups command related commands"
+	{
+		"pl"		"Powiązane komendy: zr_hitgroup_enable_all, zr_hitgroup_headshots_only"
+	}
+
+	"Hitgroups command syntax names"
+	{
+		"pl"		"Nazwy Hit-grup:"
+	}
+
+	"Hitgroups command successful on"
+	{
+		"pl"		"Obrażenia dla hit-grup \"{1}\" zostały włączone."
+	}
+
+	"Hitgroups command successful off"
+	{
+		"pl"		"Obrażenia dla hit-grup \"{1}\" zostały wyłączone."
+	}
+
+	"Hitgroups command invalid hitgroup"
+	{
+		"pl"		"\"{1}\" nie jest właściwym aliasem hit-grupy. Użyj zr_hitgroup aby wyświetlić wszystkie aliasy."
+	}
+
+	"Hitgroups command enable all successful"
+	{
+		"pl"		"Od teraz wszystkie hit-grupy zombie mogą zostać zranione."
+	}
+
+	"Hitgroups command headshots only successful"
+	{
+		"pl"		"Od teraz Zombie mogą być zranione tylko poprzez strzały w głowę."
+	}
+
+	"ZAdmin main title"
+	{
+		"pl"		"ZAdmin\nWybierz Kategorię:"
+	}
+
+	"ZAdmin main class multipliers"
+	{
+		"pl"		"Mnożniki Klas"
+	}
+
+	"ZAdmin main weapons"
+	{
+		"pl"		"Zarządzanie Broniami"
+	}
+
+	"ZAdmin main hitgroups"
+	{
+		"pl"		"Zarządzanie Hit-grupami"
+	}
+
+	"ZAdmin main zombie"
+	{
+		"pl"		"Zarządzanie Zombie"
+	}
+
+	"ZAdmin main force zspawn"
+	{
+		"pl"		"Wymuś ZSpawn"
+	}
+
+	"ZAdmin main force ztele"
+	{
+		"pl"		"Wymuś ZTele"
+	}
+
+	"AntiStick command set width syntax"
+	{
+		"pl"		"Ustawia szerokość granic modelu. (Zobacz zr_antistick_list_models) Użycie: zr_antistick_set_width <model/gracz> <szerokość>"
+	}
+
+	"AntiStick command list models list"
+	{
+		"pl"		"Imię gracza:                        Model:                                              Szerokość granic modelu:\n-------------------------------------------------------------------------------------------------------------"
+	}
+
+	"AntiStick command list models name"
+	{
+		"pl"		"{1} {2} {3}"
+	}
+
+	"AntiStick command set width successful"
+	{
+		"pl"		"Szerokość granic modelu \"{1}\" została zmieniona na \"{2}\"."
+	}
+
+	"AntiStick command set width invalid model"
+	{
+		"pl"		"Podany nieprawidłowy model/gracz: \"{1}\""
+	}
+
+	"AntiStick command set width invalid width"
+	{
+		"pl"		"Podano nieprawidłową szerokość granic modelu: \"{1}\""
+	}
+
+	"Spawn protection begin"
+	{
+		"pl"		"Zombie są obecne, masz {1} sekund(y) na znalezienie bezpiecznego miejsca zanim stracisz odporność."
+	}
+
+	"Spawn protection end"
+	{
+		"pl"		"Od teraz jesteś wrażliwy na infekcję Zombie."
+	}
+
+	"Spawn Protect"
+	{
+		"pl"		"Protekcja Zombie kończy się za: {1} sekund(y)."
+	}
+
+	"ZCookies Menu main title"
+	{
+		"pl"		"ZCookies\nWybierz ciasteczka:"
+	}
+
+	"ZCookies menu main auto-rebuy"
+	{
+		"pl"		"ZMarket Auto-Dokupienie: {1}"
+	}
+
+	"ZCookies menu main zhp"
+	{
+		"pl"		"ZHP Wyświetlanie: {1}"
+	}
+
+	"ZCookies menu main overlay"
+	{
+		"pl"		"Nakładka Klasy Człowiek/Zombie: {1}"
+	}
+
+	"ZCookies zmarket loadout"
+	{
+		"pl"		"ZMarket Ekwipunek"
+	}
+
+	"ZSpawn double spawn"
+	{
+		"pl"		"ZSpawn może być użyty tylko wtedy, gdy dołączyłeś późno podczas trwającej rundy."
+	}
+
+	"ZSpawn timelimit"
+	{
+		"pl"		"Limit czasowy ({1} sekund(y)) na użycie ZSpawn już upłynął."
+	}
+
+	"ZSpawn clients title"
+	{
+		"pl"		"Wymuś ZSpawn (zr_zspawn_force)\nWybierz gracza:"
+	}
+
+	"ZSpawn command force syntax"
+	{
+		"pl"		"Wymuś ZSpawn na graczu. Użycie: zr_zspawn_force <gracz> ['0' = Odrodź jako człowiek | '1' = Odrodź jako zombie]"
+
+	}
+
+	"ZSpawn command force successful"
+	{
+		"pl"		"Gracz {1} został pomyślnie odrodzony."
+	}
+
+	"ZSpawn command force successful public"
+	{
+		"pl"		"@lgreen{1}@default odrodził @green{2}@default jako @lgreen{3}@default."
+	}
+
+	"ZSpawn command force unsuccessful"
+	{
+		"pl"		"Gracz {1} nie mógł być odrodzony."
+	}
+
+	"ZTele restricted human"
+	{
+		"pl"		"ZTele jest ograniczone dla ludzi na ten moment."
+	}
+
+	"ZTele max"
+	{
+		"pl"		"Osiągnąłeś swój limit {1} teleportacji na rundę."
+	}
+
+	"ZTele in progress"
+	{
+		"pl"		"Obecnie oczekujesz na teleportację."
+	}
+
+	"ZTele autocancel text"
+	{
+		"pl"		"Teleport został anulowany. (Przesunąłeś się o {1} stóp.)"
+	}
+
+	"ZTele countdown"
+	{
+		"pl"		"Teleportuję do strefy odrodzenia za: {1} sekund(y/ę)."
+	}
+
+	"ZTele autocancel centertext"
+	{
+		"pl"		"Teleport został anulowany."
+	}
+
+	"ZTele countdown end"
+	{
+		"pl"		"Teleportowano do strefy odrodzenia. (Liczba: {1}/{2})"
+	}
+
+	"ZTele clients title"
+	{
+		"pl"		"Wymuś ZTele (zr_ztele_force)\nWybierz gracza:"
+	}
+
+	"ZTele command force syntax"
+	{
+		"pl"		"Wymuś ZTele na graczu. Użycie: zr_ztele_force <gracz>"
+
+	}
+
+	"ZTele command force successful"
+	{
+		"pl"		"Gracz {1} został pomyślnie teleportowany."
+	}
+
+	"ZTele command force unsuccessful"
+	{
+		"pl"		"Gracz {1} nie mógł być teleportowany."
+	}
+
+	"ZHP enable"
+	{
+		"pl"		"Wyświetlanie HP włączone, twoje prawdziwe HP będzie wyświetlone po infekcji."
+	}
+
+	"ZHP disable"
+	{
+		"pl"		"Wyświetlanie HP wyłączone."
+	}
+
+	"Display HP"
+	{
+		"pl"		"HP: {1}"
+	}
+
+	"Vol Anticamp Message"
+	{
+		"pl"		"To miejsce jest niedozwolone, proszę odejść."
+	}
+
+	"Vol Slay"
+	{
+		"pl"		"Zabito gracza \"{1}\" za kampienie w niedozwolonym miejscu (ID: {2})."
+	}
+
+	"Vol Ignite"
+	{
+		"pl"		"Podpalono gracza \"{1}\" za kampienie w niedozwolonym miejscu (ID: {2})."
+	}
+}
